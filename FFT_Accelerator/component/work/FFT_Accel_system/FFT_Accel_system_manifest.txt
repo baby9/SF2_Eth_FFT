@@ -1,0 +1,14 @@
+Microsemi Corporation - Microsemi Libero Software Release v12.4 (Version 12.900.0.16)
+
+Date      :  Sun Jun 14 03:00:37 2020
+Project   :  E:\Github_Repos\SF2_Eth_FFT\FFT_Accelerator
+Component :  FFT_Accel_system
+Family    :  SmartFusion2
+
+
+HDL source files for all Synthesis and Simulation tools:
+    E:/Github_Repos/SF2_Eth_FFT/FFT_Accelerator/component/work/FFT_Accel_system/FFT_Accel_system.vhd
+
+Stimulus files for all Simulation tools:
+    E:/Github_Repos/SF2_Eth_FFT/FFT_Accelerator/component/work/FFT_Accel_system/subsystem.bfm
+

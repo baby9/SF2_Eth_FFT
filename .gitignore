@@ -1,0 +1,10 @@
+FFT_Accelerator/*
+!/FFT_Accelerator/component
+!/FFT_Accelerator/constraint
+!/FFT_Accelerator/firmware
+!/FFT_Accelerator/hdl
+!/FFT_Accelerator/stimulus
+
+Softconsole/*
+!/Softconsole/FFT_Accelerator/firmware
+!/Softconsole/FFT_Accelerator/src
